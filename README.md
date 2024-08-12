@@ -1,1 +1,2 @@
-Noteworthy - an app for taking notes created by react
+
+Noteworthy - an app for taking notes created with react
